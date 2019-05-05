@@ -3,7 +3,14 @@ demo project
 
 ## Running
 
-require python 3 and requests package
+require python 3 and requests package.
 
-`python3 find_meteors.py`
+first intall pipenv then run.
+
+
+```
+pipenv install
+pipenv run "python find_meteors.py"
+
+```
 
